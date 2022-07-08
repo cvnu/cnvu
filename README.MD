@@ -13,4 +13,4 @@
 <!---------MY-GITHUB-STATS------------------->
 
 ---
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cvnu&amp;show_icons=true&amp;hide_border=false&amp;title_color=000000&amp;icon_color=#FF00FF&amp;bg_color=FF00FF&amp;text_color=AB82FF&amp;border_color=000000" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=roguetechh&show_icons=true&theme=midnight_purple&count_private=true&hide_border=true&include_all_commits=true">
