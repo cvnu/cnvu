@@ -17,5 +17,5 @@
 
 <p href="https://discord.gg/uRGa4TJt7f" align="center">
 
-    <img alt="" src=https://api.lanyard.rest/v1/users/986309129683492894/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/986309129683492894/>
 </p>
