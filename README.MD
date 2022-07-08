@@ -14,4 +14,4 @@
 
 ---
 <img align="left" alt="cvnu's GitHub Stats" src="[https://github-readme-stats.vercel.app/api?username=cvnu&amp;&theme=dark&show_icons=true&amp;hide_border=false](https://github-readme-stats.vercel.app/api?username=cvnu&show_icons=true&theme=midnight_purple)
-)"
+"
