@@ -10,5 +10,7 @@
 - my progress "Go"
 - and many other projects
 
+<!---------MY-GITHUB-STATS------------------->
+
 ---
-<img align="center" alt="cvnu's github stats" src="https://github-readme-stats.vercel.app/api?username=cvnu&atheme=midnight-purple&show_icons=true
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cvnu&amp;show_icons=true&amp;hide_border=false&amp;title_color=ff652f&amp;icon_color=FFE400&amp;bg_color=09131B&amp;text_color=ffffff&amp;border_color=0c1a25" style="max-width: 100%;">
