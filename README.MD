@@ -13,5 +13,4 @@
 <!---------MY-GITHUB-STATS------------------->
 
 ---
-<img align="left" alt="cvnu's GitHub Stats" src="[https://github-readme-stats.vercel.app/api?username=cvnu&amp;&theme=dark&show_icons=true&amp;hide_border=false](https://github-readme-stats.vercel.app/api?username=cvnu&show_icons=true&theme=midnight_purple)
-"
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cvnu&amp;show_icons=true&amp;hide_border=false&amp;title_color=ff652f&amp;icon_color=#FF00FF&amp;bg_color=FF00FF&amp;text_color=ffffff&amp;border_color=000000" style="max-width: 100%;">
