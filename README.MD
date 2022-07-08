@@ -16,6 +16,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=cvnu&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&include_all_commits=true">
 
 <p href="https://discord.gg/uRGa4TJt7f" align="center">
-
     <img alt="" src=https://lanyard.cnrad.dev/api/986309129683492894/>
 </p>
