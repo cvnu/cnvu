@@ -1,6 +1,6 @@
 ### Elluw, I am cvnu - Better known as the anoyying person
 
-## i am a starter Dev with Go i hope ya'll like my coming projects
+### i am a starter Dev with Go i hope ya'll like my coming projects
 - i love to game
 - i love meeting other devs and people
 
@@ -9,3 +9,6 @@
 - username Gen (coming soon) "Go"
 - my progress "Go"
 - and many other projects
+
+<!---------MY-GITHUB-STATS------------------->
+<img align-"left" alt="cvnu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cvnu&show_icons=true&hide_bordered=true"
